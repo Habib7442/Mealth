@@ -1,0 +1,44 @@
+body{
+    overflow-y: hidden;
+  overflow-x: hidden;
+}
+
+.welcome {
+  width: 100vw;
+  height: 100vh;
+  background: url(https://cdn.pixabay.com/photo/2017/01/30/02/20/mental-health-2019924_1280.jpg),
+    no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* signup page */
+
+.signup {
+  width: 100vw;
+  height: 100vh;
+  background: url(https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg),
+    no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+/* login page */
+
+.login {
+  width: 100vw;
+  height: 100vh;
+  background: url(https://cdn.pixabay.com/photo/2016/05/05/02/37/sunset-1373171_1280.jpg),
+    no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  
+}
